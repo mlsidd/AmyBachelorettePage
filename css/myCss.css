@@ -1,0 +1,28 @@
+#amyPic {
+	height: 30%;
+  	width: 50%;
+},
+
+#cards {
+	align: center;
+	margin-left: 30%;
+	background-color: tomato;
+},
+
+#background {
+	width: 100%;
+    	height: auto;
+    	position: absolute;
+},
+
+#time {
+	font-family: 'Acme';
+	padding:0px;
+	margin:0px;
+},
+
+.tableData {
+	padding-top: 5px;
+	padding-bottom: 5px;
+},
+
